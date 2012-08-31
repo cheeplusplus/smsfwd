@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    
+    
+    
+    <string name="app_name">smsfwd</string><string name="saveButtonText">Save</string>
+    <string name="cancelButtonText">Cancel</string>
+    
+    
+<string name="prefEnableTitle">Enable smsfwd</string><string name="prefEnableSummary">Enable SMS forwarding</string><string name="prefEncKeyTitle">Encryption key</string><string name="prefEncKeySummary">Passphrase to use for message encryption</string><string name="configureTitle">smsfwd configuration</string>
+
+<string name="notificationTitle">smsfwd notification</string>
+
+
+
+
+
+
+
+</resources>

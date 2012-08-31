@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen
+  xmlns:android="http://schemas.android.com/apk/res/android">
+<CheckBoxPreference android:defaultValue="false" android:title="@string/prefEnableTitle" android:summary="@string/prefEncKeySummary" android:key="enableFwd"></CheckBoxPreference>
+
+<EditTextPreference android:positiveButtonText="@string/saveButtonText" android:negativeButtonText="@string/cancelButtonText" android:title="@string/prefEncKeyTitle" android:dialogMessage="@string/prefEncKeySummary" android:summary="@string/prefEncKeySummary" android:dialogTitle="@string/prefEncKeyTitle" android:key="encryptionKey"></EditTextPreference>
+
+</PreferenceScreen>
